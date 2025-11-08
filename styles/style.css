@@ -202,6 +202,7 @@ p {
 .article__thumbnail {
   object-fit: contain;
   width: 5rem;
+  margin-right: 15px;
 }
 
 .article__read-more {
@@ -237,6 +238,16 @@ p {
   display: flex;
   flex-direction: row;
   gap: 20px;
+}
+
+.upcomingEvents {
+  margin-top: 20px;
+  border: solid 1px var(--grey-light);
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  display: flex;
+  margin-bottom: 10px;
 }
 
 /* Sidebar */
