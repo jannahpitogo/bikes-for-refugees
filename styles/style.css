@@ -103,6 +103,14 @@ p {
   border-radius: 5px;
 }
 
+.button2Style { 
+  background-color: white;
+  color: var(--orange-dark);
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
 
 /* Content */
 
@@ -126,8 +134,10 @@ p {
 /* hero */
 
 .hero {
-  background-image: url("header-bike.jpg");
+  background-image: url("/images/header-bike.jpg");
   background-color: var(--grey-light);
+  padding: 82px 2rem;
+  color: var(--white);
 }
 
 .hero h1 {
