@@ -60,16 +60,16 @@ p {
 
 /* Navigation */
 
-.navigation__list {
+.navList {
   display: flex;
   list-style: none;
 }
 
-.navigation__item {
-  padding: 0.5rem 0;
+.navItem {
+  padding: 6rem 1rem;
 }
 
-.navigation__link {
+.navLink {
   color: var(--grey-dark);
   font-weight: 600;
   text-transform: uppercase;
@@ -95,7 +95,13 @@ p {
 
 /* Buttons */
 
-  /* INSERT BUTTON STYLES HERE */
+.buttonStyle { 
+  background-color: var(--orange-dark);
+  color: var(--white);
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
 
 
 /* Content */
