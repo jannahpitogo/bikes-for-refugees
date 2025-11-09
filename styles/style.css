@@ -228,6 +228,8 @@ p {
 
 .facebook-link {
   color: var(--orange-dark);
+  text-align: right;
+  margin-top: 10px;
 }
 
 .articlesSec1 {
@@ -247,7 +249,6 @@ p {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
   border-radius: 5px;
   display: flex;
-  margin-bottom: 10px;
 }
 
 /* Sidebar */
