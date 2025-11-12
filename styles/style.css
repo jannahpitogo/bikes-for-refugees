@@ -60,16 +60,16 @@ p {
 
 /* Navigation */
 
-.navList {
+.navigation_list {
   display: flex;
   list-style: none;
 }
 
-.navItem {
+.navigation_item {
   padding: 6rem 1rem;
 }
 
-.navLink {
+.navigation_link {
   color: var(--grey-dark);
   font-weight: 600;
   text-transform: uppercase;
