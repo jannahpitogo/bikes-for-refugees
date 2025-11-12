@@ -103,7 +103,7 @@ button {
   border-radius: 5px;
 }
 
-.button2Style { 
+.button-color-white { 
   background-color: white;
   color: var(--orange-dark);
   border: none;
@@ -232,7 +232,7 @@ button {
   margin-top: 10px;
 }
 
-.articlesSec1 {
+.article-additional-margin {
   margin-top: 50px;
 }
 
@@ -242,7 +242,7 @@ button {
   gap: 20px;
 }
 
-.upcomingEvents__cotainer {
+.upcomingEvents__container {
   margin-top: 20px;
   border: solid 1px var(--grey-light);
   padding: 10px;
