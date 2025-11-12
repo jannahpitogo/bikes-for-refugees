@@ -95,7 +95,7 @@ p {
 
 /* Buttons */
 
-.buttonStyle { 
+button { 
   background-color: var(--orange-dark);
   color: var(--white);
   border: none;
@@ -114,7 +114,7 @@ p {
 
 /* Content */
 
-.content {
+.content{
   display: flex;
   flex-direction: column;
 }
@@ -242,7 +242,7 @@ p {
   gap: 20px;
 }
 
-.upcomingEvents {
+.upcomingEvents__cotainer {
   margin-top: 20px;
   border: solid 1px var(--grey-light);
   padding: 10px;
