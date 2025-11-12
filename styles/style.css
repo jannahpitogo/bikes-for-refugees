@@ -236,7 +236,7 @@ button {
   margin-top: 50px;
 }
 
-.articleContents {
+.article__contents {
   display: flex;
   flex-direction: row;
   gap: 20px;
