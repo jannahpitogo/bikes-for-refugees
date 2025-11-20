@@ -96,21 +96,20 @@ p {
 /* Buttons */
 
 button { 
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.button--primary {
   background-color: var(--orange-dark);
   color: var(--white);
-  border: none;
-  padding: 5px 10px;
-  border-radius: 5px;
 }
 
-.button-color-white { 
-  background-color: white;
+.button--secondary {
+  background-color: var(--white);
   color: var(--orange-dark);
-  border: none;
-  padding: 5px 10px;
-  border-radius: 5px;
 }
-
 
 /* Content */
 
