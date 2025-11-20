@@ -135,7 +135,7 @@ button {
 .hero {
   background-image: url("/images/header-bike.jpg");
   background-color: var(--grey-light);
-  padding: 82px 2rem;
+  padding: 5rem 2rem;
   color: var(--white);
 }
 
